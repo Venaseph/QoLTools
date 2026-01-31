@@ -1,0 +1,7 @@
+## Interface: 120000
+## Title: QoL Tools
+## Notes: Quickly lookup items, achievements, and quests on Wowhead using /wh command or Alt-Click
+## Author: YourName
+## Version: 1.2.0
+
+QoLTools.lua
