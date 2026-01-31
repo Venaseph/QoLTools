@@ -13,6 +13,7 @@ A simple World of Warcraft addon that generates Wowhead lookup URLs for items, a
   - ✅ Regular quests in the objective tracker
   - ✅ All clickable links in chat (items, achievements, quests)
   - ❌ World quests in objective tracker (not yet working - use quest log or chat links instead)
+  - ❌ Handy Notes map and minimap icon support (not yet working - use quest log or chat links instead)
 - Uses actual IDs for accurate Wowhead URLs
 - Generates clean URLs like `https://www.wowhead.com/item=212283`
 - Styled popup window with dynamic icons matching the clicked object
